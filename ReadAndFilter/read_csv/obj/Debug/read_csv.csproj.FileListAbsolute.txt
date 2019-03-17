@@ -1,5 +1,0 @@
-C:\Users\Kirito\source\repos\Test\read_csv\bin\Debug\read_csv.dll
-C:\Users\Kirito\source\repos\Test\read_csv\bin\Debug\read_csv.pdb
-C:\Users\Kirito\source\repos\Test\read_csv\obj\Debug\read_csv.csproj.CoreCompileInputs.cache
-C:\Users\Kirito\source\repos\Test\read_csv\obj\Debug\read_csv.dll
-C:\Users\Kirito\source\repos\Test\read_csv\obj\Debug\read_csv.pdb

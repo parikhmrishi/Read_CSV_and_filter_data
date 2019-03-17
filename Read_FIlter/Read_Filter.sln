@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.438
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{66AC233E-F260-443C-81CC-4BF54064621F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Read_Filter", "Test\Read_Filter.csproj", "{66AC233E-F260-443C-81CC-4BF54064621F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "read_csv", "read_csv\read_csv.csproj", "{6570A369-544F-4E7A-9E18-A8268704F580}"
 EndProject
