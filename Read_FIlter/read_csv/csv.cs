@@ -95,7 +95,7 @@ namespace read_csv
 
             foreach (var record in records)
             {
-                if(String.Compare(record.DOB,dob)<=0)
+                if (DateTime.Compare(DateTime.Parse(record.DOB),DateTime.Parse(dob))<=0)
                 {
                     Console.WriteLine(record.Name + "|" + record.DOB + "|" + record.Location + "|" + record.Designation);
                     flag = 1;
